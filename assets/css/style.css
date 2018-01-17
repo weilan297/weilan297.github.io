@@ -67,7 +67,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6{		
 	margin: 0 0 15px 0;	
 	color: #3A4F52;
-	font-family: 'Alegreya Sans';
+	font-family: 'SimSun';
 }
 
 .btn{border-radius: 0;}
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #header .logo, #header .toggleDrawer{
-	font-family: 'Alegreya SC';
+	font-family: 'SimSun';
 	color: white;
 }
 
@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6{
 	font-size: 4em;
 	margin-bottom: 15px;
 	line-height: 1em;
-	font-family: 'Nixie One';
+	font-family: 'SimSun';
 	color: white;
 }
 
@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6{
 	font-size: 1.6em;
 	color: rgba(255,255,255,.5);
 	line-height: 1em;
-	font-family: 'Alegreya SC';
+	font-family: 'SimSun';
 }
 
 #header .bottom {

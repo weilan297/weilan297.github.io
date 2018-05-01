@@ -160,7 +160,7 @@
         boot();
     }
     else if (window.jsb) {
-        require('src/settings.00d3b.js');
+        require('src/settings.93e0f.js');
         require('src/jsb_polyfill.js');
 
         boot();
